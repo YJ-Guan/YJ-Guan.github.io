@@ -7,7 +7,7 @@ email:
 
 ---
 
-# Yujiang Guan
+## Yujiang Guan
 
 <!--
 include contact information from the front matter
@@ -20,6 +20,9 @@ Supported arguments:
 {% include cv-contact.html %}
 
 ## Education
+
+
+
 
   <img src="media/标志与中英文校名组合规范_左右.png" style="zoom:67%;" />
 
@@ -49,7 +52,8 @@ Shenzhen, CHN
 
 ## Publications
 
----
+
+
 
 ### [**<!--Whiteboard Scanning Using Super-Resolution**](http://scholar.dickinson.edu/student_honors/221/)-->
 
