@@ -23,7 +23,7 @@ Supported arguments:
 
   <img src="media/标志与中英文校名组合规范_左右.png" style="zoom:67%;" />
 
-### Peking University Shenzhen Graduate School (PKUSZ) `2020.9 -`
+## Peking University Shenzhen Graduate School (PKUSZ) `2020.9 -`
 
 ```
 Shenzhen, CHN
@@ -34,9 +34,11 @@ Shenzhen, CHN
 
 
 
+
+
 <img src="media/LOGO.png" style="zoom: 67%;" />
 
-### Southern University of Science and Technology (SUSTech)`2013.9 - 2016.5`
+## Southern University of Science and Technology (SUSTech)`2013.9 - 2016.5`
 
 ```
 Shenzhen, CHN
