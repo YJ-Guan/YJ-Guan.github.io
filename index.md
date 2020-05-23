@@ -45,17 +45,16 @@ Shenzhen, CHN
 Shenzhen, CHN
 ```
 
-- B.E. in Microelectronics S&E , EEE Department
+- B.E. in Microelectronics, EEE Department
 - GPA: 3.85/4.00   Ranking: 1/68
 - Advised by  Prof. Fei Wang
 
-## Publications
-
----
+## Conference
+Y. Guan, Y. Zhang, F. Wang. “Electret based Vibration Energy Harvester with Integrated Silicon Tips Used for Corona Charging”, The 2nd International Conference on Vibration and Energy Harvesting Applications (VEH2019), Shanghai, China. 2019 <br>[[Abstract](assets/VEH 2019 Abstract_Yujiang Guan.pdf)]
 
 ## Experience
 
----
+TBD
 
 ## Honors & Awards
 
@@ -63,6 +62,8 @@ Shenzhen, CHN
 Shude College Outstanding Graduate Student `SUSTech, 2020` <br>
 
 EEE Outstanding Graduate Student `SUSTech, 2020` <br>
+
+The National Undergraduate Electronic Design Contest (Guangdong), 2nd Prize`SUSTech, 2020` <br>
 
 First Class Scholarship  for Outstanding Student `SUSTech, 2019` <br>
 
