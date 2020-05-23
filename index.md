@@ -8,7 +8,7 @@ Wechat:
   text: guanyujiang
 ---
 
-<font size="5"><center>**Yujiang Guan** </center></font><br />
+<font size="7"><center><b>Yujiang Guan</b></center></font><br />
 
 <!--
 include contact information from the front matter
@@ -25,8 +25,8 @@ Supported arguments:
 
 ---
 
-
 <img src="media/标志与中英文校名组合规范_左右.png" style="zoom:67%;" />  
+
 #### **Peking University Shenzhen Graduate School (PKUSZ)** `2020.9 -`
 
 ```
