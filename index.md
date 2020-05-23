@@ -7,7 +7,7 @@ email:
 
 ---
 
-## <div align="center"> Yujiang **Guan **</div>
+#  Yujiang **Guan **
 <!--
 include contact information from the front matter
 Supported arguments:
@@ -24,7 +24,7 @@ Supported arguments:
 ---
 
 
-<img src="media/标志与中英文校名组合规范_左右.png" style="zoom:67%;" /> </div> <br>
+<img src="media/标志与中英文校名组合规范_左右.png" style="zoom:67%;" />  
 #### Peking University Shenzhen Graduate School (PKUSZ) `2020.9 -`
 
 ```
@@ -33,11 +33,11 @@ Shenzhen, CHN
 
 - M.S. in Microelectronics, ECE Department
 - Advised by Prof. [Hailong Jiao](pku-vlsi.com)
+<br>
 
 
 
-
-<div align="left"><img src="media/LOGO.png" style="zoom: 67%;" /> </div> <br>
+<div align="left"><img src="media/LOGO.png" style="zoom: 67%;" /> </div> 
 #### Southern University of Science and Technology (SUSTech)`2013.9 - 2016.5`
 
 ```
