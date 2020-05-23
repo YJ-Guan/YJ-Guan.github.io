@@ -4,10 +4,11 @@ title: Yujiang Guan
 email:
   url: yujiang.guan@outlook.com
   text: yujiang.guan@outlook.com
-
+Wechat: 
+  text: guanyujiang
 ---
 
-#  Yujiang **Guan **
+##  <center>Yujiang Guan </center>
 <!--
 include contact information from the front matter
 Supported arguments:
@@ -25,14 +26,14 @@ Supported arguments:
 
 
 <img src="media/标志与中英文校名组合规范_左右.png" style="zoom:67%;" />  
-#### Peking University Shenzhen Graduate School (PKUSZ) `2020.9 -`
+#### **Peking University Shenzhen Graduate School (PKUSZ)** `2020.9 -`
 
 ```
 Shenzhen, CHN
 ```
 
 - M.S. in Microelectronics, ECE Department
-- Advised by Prof. [Hailong Jiao](pku-vlsi.com)
+- Advised by Prof. [Hailong Jiao](http://pku-vlsi.com/)
 <br>
 
 
