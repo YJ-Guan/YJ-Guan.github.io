@@ -34,9 +34,8 @@ Shenzhen, CHN
 ```
 
 - M.S. in Microelectronics, ECE Department
-- Advised by Prof. [Hailong Jiao](http://pku-vlsi.com/)
+- Advised by Prof. [Hailong Jiao](http://pku-vlsi.com/)<br>
 <br>
-
 
 
 <div align="left"><img src="media/LOGO.png" style="zoom: 67%;" /> </div> 
@@ -46,7 +45,8 @@ Shenzhen, CHN
 Shenzhen, CHN
 ```
 
-- B.E. in Microelectronics, EEE Department
+- B.E. in Microelectronics S&E , EEE Department
+- GPA: 3.85/4.00   Ranking: 1/68
 - Advised by  Prof. Fei Wang
 
 ## Publications
@@ -64,6 +64,10 @@ Shude College Outstanding Graduate Student `SUSTech, 2020` <br>
 
 EEE Outstanding Graduate Student `SUSTech, 2020` <br>
 
-1st Prize for Outstanding Student `SUSTech, 2019` <br>
+First Class Scholarship  for Outstanding Student `SUSTech, 2019` <br>
+
+Second Class Scholarship  for Outstanding Student `SUSTech, 2018` <br>
+
+Second Class Scholarship  for Outstanding Student `SUSTech, 2017` <br>
 
 ---
