@@ -39,7 +39,7 @@ Shenzhen, CHN
 
 
 <div align="left"><img src="media/LOGO.png" style="zoom: 67%;" /> </div> 
-#### **Southern University of Science and Technology (SUSTech)**`2013.9 - 2016.5`
+#### **Southern University of Science and Technology (SUSTech)**`2016.9 - 2020.7`
 
 ```
 Shenzhen, CHN
