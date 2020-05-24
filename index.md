@@ -34,7 +34,7 @@ Shenzhen, CHN
 ```
 
 - M.S. in Microelectronics, ECE Department
-- Advised by Prof. [Hailong Jiao](http://pku-vlsi.com/)<br>
+- Advised by  [Prof. Hailong Jiao](http://pku-vlsi.com/)<br>
 <br>
 
 
@@ -47,14 +47,16 @@ Shenzhen, CHN
 
 - B.E. in Microelectronics, EEE Department
 - GPA: 3.85/4.00   Ranking: 1/68
-- Advised by  Prof. Fei Wang
+- Advised by [Prof. Fei Wang](https://eee.sustech.edu.cn/p/wangfei/index.html)<br>
 
 ## Conference
 Y. Guan, Y. Zhang, F. Wang. “Electret based Vibration Energy Harvester with Integrated Silicon Tips Used for Corona Charging”, The 2nd International Conference on Vibration and Energy Harvesting Applications (VEH2019), Shanghai, China. 2019 <br>[[Abstract](assets/VEH 2019 Abstract_Yujiang Guan.pdf)]
 
 ## Experience
 
-TBD
+### **Shenzhen Volunteer Organization** `2016.11 - Now`<br>
+
+_Volunteer_<br>
 
 ## Honors & Awards
 
