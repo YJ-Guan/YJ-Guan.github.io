@@ -9,6 +9,7 @@ Wechat:
 ---
 
 <font size="7"><center><b>Yujiang Guan</b></center></font><br />
+<font size="4"><center><b>Master Degree Candidate</b></center></font><br />
 
 <!--
 include contact information from the front matter
