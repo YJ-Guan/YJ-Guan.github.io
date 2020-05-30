@@ -2,7 +2,7 @@
 layout: cv
 title: Yujiang Guan
 email:
-  url: yujiang.guan@outlook.com
+  url: https://yujiang.guan@outlook.com
   text: yujiang.guan@outlook.com
 wechat: 
   text: guanyujiang
