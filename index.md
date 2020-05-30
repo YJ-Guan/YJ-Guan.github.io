@@ -24,7 +24,6 @@ Supported arguments:
 
 ## Education
 
----
 
 <img src="media/标志与中英文校名组合规范_左右.png" style="zoom:67%;" />  
 
