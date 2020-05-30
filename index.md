@@ -3,9 +3,8 @@ layout: cv
 title: Yujiang Guan
 email:
   url: https://yujiang.guan@outlook.com
-  text: yujiang.guan@outlook.com
-phone:
-  text: guanyujiang
+  text: [EMail] yujiang.guan@outlook.com
+phone:[Wechat] guanyujiang
 ---
 
 <font size="7"><center><b>Yujiang Guan</b></center></font><br />
