@@ -4,7 +4,7 @@ title: Yujiang Guan
 email:
   url: https://yujiang.guan@outlook.com
   text: Email: yujiang.guan@outlook.com
-wechat: 
+phone:
   text: Wechat: guanyujiang
 ---
 
