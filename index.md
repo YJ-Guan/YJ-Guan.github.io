@@ -20,6 +20,30 @@ Supported arguments:
 
 {% include cv-contact.html %}
 
+## What's NEW:
+	<head>
+	<meta charset="UTF-8">
+	<title>marquee</title>
+	<style>
+	    body {
+	
+	        padding: 60px;
+	    }
+	
+	</style>
+	</head>
+	
+	<body>
+	     <marquee direction="up" scrollamount="3" ><span style="font-size: 20px;color: black;">
+		 2020.7.5 YJ Guan gets his Bachelar Degree @ SUSTech! <br>
+		 2020.6.8 YJ Guan is selected as an EEE and Shude Colledge outstanding graduate!<br>
+		 <br>
+		 <br>
+		 <br>
+		 <br>
+		 </span></marquee>
+	</body>
+
 ## Education
 
 
@@ -70,9 +94,6 @@ First Class Scholarship  for Outstanding Student `SUSTech, 2019` <br>
 Second Class Scholarship  for Outstanding Student `SUSTech, 2018` <br>
 
 Second Class Scholarship  for Outstanding Student `SUSTech, 2017` <br>
-
-## What's NEW:
-
 
 
 
