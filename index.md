@@ -21,28 +21,22 @@ Supported arguments:
 {% include cv-contact.html %}
 
 ## What's NEW:
-	<head>
+<head>
 	<meta charset="UTF-8">
 	<title>marquee</title>
-	<style>
-	    body {
-	
-	        padding: 60px;
-	    }
-	
-	</style>
-	</head>
-	
-	<body>
-	     <marquee direction="up" scrollamount="3" ><span style="font-size: 20px;color: black;">
-		 2020.7.5 YJ Guan gets his Bachelor Degree @ SUSTech! <br>
+	<style>body {padding: 60px;}</style>
+</head>
+
+<body>
+<marquee direction="up" scrollamount="3" ><span style="font-size: 20px;color: black;">
+		      2020.7.5 YJ Guan gets his Bachelor Degree @ SUSTech! <br>
 		 2020.6.8 YJ Guan is selected as an EEE and Shude Colledge outstanding graduate!<br>
 		 <br>
 		 <br>
 		 <br>
 		 <br>
-		 </span></marquee>
-	</body>
+</span></marquee>
+</body>
 
 ## Education
 
