@@ -35,7 +35,7 @@ Supported arguments:
 	
 	<body>
 	     <marquee direction="up" scrollamount="3" ><span style="font-size: 20px;color: black;">
-		 2020.7.5 YJ Guan gets his Bachelar Degree @ SUSTech! <br>
+		 2020.7.5 YJ Guan gets his Bachelor Degree @ SUSTech! <br>
 		 2020.6.8 YJ Guan is selected as an EEE and Shude Colledge outstanding graduate!<br>
 		 <br>
 		 <br>
