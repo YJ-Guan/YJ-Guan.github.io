@@ -29,7 +29,7 @@ Supported arguments:
 
 <body>
 <marquee direction="up" scrollamount="3" ><span style="font-size: 20px;color: black;">
-2020.7.5 YJ Guan gets his Bachelor Degree @ SUSTech! <br>
+2020.7.5 YJ Guan gets his Bachelor's Degree @ SUSTech! <br>
 2020.6.8 YJ Guan is selected as an EEE and Shude Colledge outstanding graduate!<br>
 		 <br>
 		 <br>
@@ -40,7 +40,6 @@ Supported arguments:
 
 ## Education
 
-
 <img src="media/标志与中英文校名组合规范_左右.png" style="zoom:67%;" />  
 
 #### **Peking University Shenzhen Graduate School (PKUSZ)** `2020.9 -`
@@ -50,7 +49,7 @@ Shenzhen, CHN
 ```
 
 - M.S. in Microelectronics, ECE Department
-- Advised by  [Prof. Hailong Jiao](http://pku-vlsi.com/)<br>
+- VLSI Lab Advised by  [Prof. Hailong Jiao](http://pku-vlsi.com/)<br>
 <br>
 
 
